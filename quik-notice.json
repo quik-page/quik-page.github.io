@@ -1,0 +1,13 @@
+{
+    "date":1725681204182,
+    "content":"<h2>帮助我们开发</h2><p style='text-indent:2em;padding:10px 0;'>QUIK起始页还在不断成长中，我们需要您的帮助！</p><p style='text-indent:2em;padding:10px 0;'>如果您有任何意见或建议，欢迎在设置中点击最下面的“提供反馈”，同时也非常欢迎您加入我们的QQ群（971915865）参与讨论。</p>",
+    "title":"提示",
+    "btns":[{
+        "text":"确定",
+        "style":"ok"
+    },{
+        "text":"加入QQ群",
+        "style":"ok",
+        "url":"https://qm.qq.com/q/6nOculioy4"
+    }]
+}
